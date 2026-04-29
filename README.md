@@ -22,6 +22,9 @@ Currently exploring how systems are **built, attacked, and secured**.
 - 🐧 Linux (Kali Linux & Ubuntu)  
 - 🌐 Networking Fundamentals  
 - 🔐 Cybersecurity & Ethical Hacking  
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue)
 
 ---
 
@@ -36,9 +39,9 @@ Currently exploring how systems are **built, attacked, and secured**.
 
 ## 📂 Projects
 
-- 🔹 Linux System Monitoring Tool  
+- 🔹 Linux System Monitoring Tool (working on it) 
 - 🔹 Log Analysis (Failed Login Detection)  
-- 🔹 Basic Port Scanner  
+- 🔹 Basic Port Scanner (working on it)
 
 ---
 
