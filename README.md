@@ -44,7 +44,7 @@ Currently exploring how systems are **built, attacked, and secured**.
 
 ## 📈 GitHub Stats
 
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushall05&show_icons=true&theme=radical)
 
 ---
 
