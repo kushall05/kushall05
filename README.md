@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Learner;Future+Security+Engineer;Always+Learning...)
-# 👋 Hi, I'm Kushal Thorat
+# 👋 Hi, I'm Kushall Thorat
 
 🎓 Computer Science Student  
 🔐 Aspiring Cybersecurity & Cloud Engineer  
